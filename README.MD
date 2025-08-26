@@ -1,4 +1,4 @@
-# Site acessível sobre o Dog Life
+# Site acessível sobre a Dog Life
 # Sobre
 Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
 ## Recursos de acessibilidade
